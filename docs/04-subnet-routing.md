@@ -58,6 +58,6 @@ ping 10.124.0.1 #Mine
 - **Route not working after approval:** `sysctl net.ipv4.ip_forward` should return 1
 - **Route shows pending in console:** refresh the admin console page
 ## What broke
-I was unable to ping the forwarded routes from my media vault server. Upon further reading of the deocumentation [https://tailscale.com/docs/features/subnet-routers] I found I had to enable automatic discovery by running the following `sudo tailscale set --accept-routes` once done no issues 
+I was unable to ping the forwarded routes from my media vault server. Upon further reading of the deocumentation [https://tailscale.com/docs/features/subnet-routers] I found I had to enable automatic discovery by running the following on my media vault server running unraid `sudo tailscale set --accept-routes` once done no issues 
 
 ![alt text](image-1.png)
