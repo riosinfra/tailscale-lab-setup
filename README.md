@@ -21,16 +21,16 @@ firewall changes.
 | iphone         | iOS          | Client                      | 100.x.x.x    |
 | unraid-server  | Unraid/Linux | NAS · existing node         | 100.x.x.x    |
 
-## Labs to be covered
+## Labs completed
 - [01 — Provision DigitalOcean droplet](docs/01-provision-droplet.md)
 - [02 — Install Tailscale on Linux](docs/02-install-tailscale-linux.md)
-- [03 — Install Tailscale on ChromeOS](docs/03-install-ChromeOS.md)
-- [04 — Install Tailscale on iOS](docs/04-install-ios.md)
-- [05 — Subnet routing (VPC)](docs/05-subnet-routing.md)
-- [06 — Exit node](docs/06-exit-node.md)
-- [07 — MagicDNS](docs/07-magicdns.md)
-- [08 — Tailscale SSH](docs/08-tailscale-ssh.md)
-- [09 — Troubleshooting](docs/09-troubleshooting.md)
+- [03 — Install Tailscale on iOS](docs/03-install-ios.md)
+- [04 — Subnet routing (VPC)](docs/04-subnet-routing.md)
+## Labs to be completed
+- [05 — Exit node](docs/05-exit-node.md)
+- [06 — MagicDNS](docs/06-magicdns.md)
+- [07 — Tailscale SSH](docs/07-tailscale-ssh.md)
+- [08 — Troubleshooting](docs/08-troubleshooting.md)
 
 ## What I learned
 
