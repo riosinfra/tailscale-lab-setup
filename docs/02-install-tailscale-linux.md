@@ -25,10 +25,7 @@ Open the authentication URL in a browser on any device and sign in.
 ```bash
 tailscale status
 ```
-Another verification method is to look for device in Tailscale console which is beneficial as expiry length can be changed if needed. 
-
-
-Droplet should appear with a 100.x.x.x IP.
+Another verification method is to look for device in Tailscale console which is beneficial as expiry length can be changed if needed. As shown in image. 
 
 
 ![Tailscale Console with Connected devices](image.png)
@@ -44,3 +41,4 @@ Droplet should appear with a 100.x.x.x IP.
 - **Auth URL expired:** run `sudo tailscale up` again for a fresh link
 
 ## What broke
+Straight forward lab did not have issues this time around. 
