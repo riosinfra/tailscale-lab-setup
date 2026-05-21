@@ -25,10 +25,19 @@ Open the authentication URL in a browser on any device and sign in.
 ```bash
 tailscale status
 ```
-Another verification method is to look for device in TailScale console which is beneficial as expiry length can be changed if needed. 
+Another verification method is to look for device in Tailscale console which is beneficial as expiry length can be changed if needed. 
 
 
 Droplet should appear with a 100.x.x.x IP.
+
+
+![Tailscale Console with Connected devices](image.png)
+
+
+
+
+
+
 
 ## Troubleshooting
 - **Service not running:** `sudo systemctl start tailscaled`
