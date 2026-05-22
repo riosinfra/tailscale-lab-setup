@@ -1,4 +1,4 @@
-tailscale-lab-setup
+# tailscale-lab-setup
 
 A documented Tailscale mesh network built on a DigitalOcean droplet,
 connecting a cloud Linux node, Chromebook, iOS device, and Unraid server
