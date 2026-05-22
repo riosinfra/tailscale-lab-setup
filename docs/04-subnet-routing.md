@@ -60,3 +60,4 @@ ping 10.124.0.1 #Mine
 ## What broke
 I was unable to ping the forwarded routes from my media vault server. Upon further reading of the deocumentation [https://tailscale.com/docs/features/subnet-routers] I found I had to enable automatic discovery by running the following on my media vault server running unraid `sudo tailscale set --accept-routes` once done no issues 
 
+![alt text](Resources/image-1.png)
