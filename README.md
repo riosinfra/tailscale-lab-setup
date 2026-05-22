@@ -26,10 +26,10 @@ firewall changes.
 - [02 — Install Tailscale on Linux](docs/02-install-tailscale-linux.md)
 - [03 — Install Tailscale on iOS](docs/03-install-ios.md)
 - [04 — Subnet routing (VPC)](docs/04-subnet-routing.md)
-## Labs to be completed
 - [05 — Exit node](docs/05-exit-node.md)
 - [06 — MagicDNS](docs/06-magicdns.md)
 - [07 — Tailscale SSH](docs/07-tailscale-ssh.md)
+## Labs to be completed
 - [08 — Troubleshooting](docs/08-troubleshooting.md)
 
 ## What I learned
