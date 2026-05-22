@@ -29,11 +29,7 @@ firewall changes.
 - [05 — Exit node](docs/05-exit-node.md)
 - [06 — MagicDNS](docs/06-magicdns.md)
 - [07 — Tailscale SSH](docs/07-tailscale-ssh.md)
-## Labs to be completed
 - [08 — Troubleshooting](docs/08-troubleshooting.md)
-
-## What I learned
-
 
 ## Next steps
 - Add a second subnet router for redundancy
