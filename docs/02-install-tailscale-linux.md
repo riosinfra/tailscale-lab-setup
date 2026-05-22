@@ -28,7 +28,7 @@ tailscale status
 Another verification method is to look for device in Tailscale console which is beneficial as expiry length can be changed if needed. As shown in image. 
 
 
-![Tailscale Console with Connected devices](image.png)
+![alt text](Resources/image.png)
 
 
 
