@@ -27,7 +27,7 @@ Same flow as subnet routing — approve the exit node under Edit route settings.
 ### 4. Verify
 Verified exit node with online IP checked from other tailscale client (iOS)
 
-
+![alt text](Resources/IMG_5551.PNG)
 
 ## Troubleshooting
 - **Exit node not appearing in menu:** confirm it was approved in the admin console
