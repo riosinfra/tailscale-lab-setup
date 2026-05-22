@@ -24,7 +24,7 @@ Example: point `droplet` to the droplet's Tailscale IP.
 ```bash
 ping droplet
 ```
- ![alt text](image.png)
+![alt text](Resources/ping-test.jpg)
 
 ## Troubleshooting
 - **Hostname not resolving:** `tailscale dns status` to confirm MagicDNS is active
