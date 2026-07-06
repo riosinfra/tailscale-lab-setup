@@ -29,9 +29,8 @@ firewall changes.
 - [05 — Exit node](docs/05-exit-node.md)
 - [06 — MagicDNS](docs/06-magicdns.md)
 - [07 — Tailscale SSH](docs/07-tailscale-ssh.md)
-- [08 — Troubleshooting](docs/08-troubleshooting.md)
 
 ## Next steps
 - Add a second subnet router for redundancy
-- Explore Tailscale ACL posture checking
+- Explore Tailscale ACL
 - Integrate with an identity provider
